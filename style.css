@@ -1,0 +1,37 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+#submit {
+  background-color: rgb(130, 117, 247);
+  border-radius: 3px;
+  border: 2px solid;
+}
+#text {
+  margin-left: 40px;
+  margin-top: 10px;
+}
+#submit {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+#submit1 {
+  background-color: rgb(63, 180, 92);
+  border-radius: 3px;
+  border: 2px solid;
+}
+#submit2 {
+  background-color: rgb(23, 178, 206);
+  border-radius: 3px;
+  border: 2px solid;
+}
+#next {
+  background-color: rgb(184, 110, 67);
+  border-radius: 3px;
+  border: 2px solid;
+}
+#submit3 {
+  background-color: rgb(247, 216, 44);
+  border-radius: 3px;
+  border: 2px solid;
+}
