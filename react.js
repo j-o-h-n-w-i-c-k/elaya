@@ -1,14 +1,14 @@
 import React, { Component, useState } from 'react';
 import './style.css';
 const axios = require('axios').default;
-// export default function App() {
-//   return (
-//     <div>
-//       <h1>Hello StackBlitz!</h1>
-//       <p>Start editing to see some magic happen :)</p>
-//     </div>
-//   );
-// }
+export default function App() {
+  return (
+    <div>
+      <h1>Hello StackBlitz!</h1>
+      <p>Start editing to see some magic happen :)</p>
+    </div>
+  );
+}
 function Hello(props) {
   console.log(props, 'hello');
 
