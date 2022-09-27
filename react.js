@@ -29,22 +29,22 @@ function Hello(props) {
     </div>
   );
 }
-class Test extends Component {
-  render() {
-    return (
-      <div>
-        <h1
-          style={{ color: 'white', backgroundColor: 'grey', borderRadius: 10 }}
-          className="ssdf"
-          id="asafc"
-        >
-          Hello StackBlitz!
-        </h1>
-        <p>Start editing to see some magic happen :)</p>
-      </div>
-    );
-  }
-}
+// class Test extends Component {
+//   render() {
+//     return (
+//       <div>
+//         <h1
+//           style={{ color: 'white', backgroundColor: 'grey', borderRadius: 10 }}
+//           className="ssdf"
+//           id="asafc"
+//         >
+//           Hello StackBlitz!
+//         </h1>
+//         <p>Start editing to see some magic happen :)</p>
+//       </div>
+//     );
+//   }
+// }
 // export default class App extends Component {
 //   constructor(props) {
 //     super(props);
