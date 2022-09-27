@@ -156,11 +156,11 @@ appDiv.innerHTML = `<h1>JOHNWICK</h1>`;
 
 // new promise command function//
 
-const p1 = new Promise((resolve, reject) => {
-  setTimeout(() => {
-    resolve('success');
-  }, 2000);
-});
+//const p1 = new Promise((resolve, reject) => {
+// setTimeout(() => {
+//   resolve('success');
+// }, 2000);
+//});
 
 // const p2 = new Promise((resolve, reject) => {
 //   setTimeout(() => {
@@ -180,12 +180,12 @@ const p1 = new Promise((resolve, reject) => {
 
 // p1.then((x) => console.log(x));
 
-p1.then((x) => {
-  console.log(x, "It's x value");
-  console.log(x + 10, "It's x+10 value");
-  let y = x + 20;
-  console.log(y, "It's Y value");
-});
+// p1.then((x) => {
+//   console.log(x, "It's x value");
+//   console.log(x + 10, "It's x+10 value");
+//   let y = x + 20;
+//   console.log(y, "It's Y value");
+// });
 // console.log(Math.abs(-3));
 // let result = Math.max(75, 100, 95, 85);
 // console.log('maximum marks :' + result);
