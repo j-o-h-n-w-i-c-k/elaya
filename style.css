@@ -35,3 +35,6 @@ h2 {
   border-radius: 3px;
   border: 2px solid;
 }
+label{
+  border-radius: 10px;
+}
